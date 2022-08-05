@@ -1,0 +1,40 @@
+1) valor 5 HTML se define como?:
+• Un lenguaje de programación .
+• Un lenguaje de marcado que define la estructura de tu contenido.
+• Un lenguaje de Estilos que define la forma de tu contenidos.
+• Un lenguaje de Estilos que define la escritura de tu contenido.
+
+La respuesta es = Un lenguaje de marcado que define la estructura de tu contenido.
+
+2) valor 5 CSS se define como?:
+• Es el lenguaje de estilos utilizado para describir la presentación de documentos HTML o XML.
+• Es el lenguaje de marcado utilizado para describir la presentación de documentos HTML o Doc.
+• Es el lenguaje de programación utilizado para formatear la presentación de documentos HTML
+o XML.
+• Es un lenguaje de programación para visualizar datos.
+
+La respuesta es = Es el lenguaje de estilos utilizado para describir la presentación de documentos HTML o XML.
+
+3) valor 5 En qué lugar se ejecuta generalmente el código JavaScript
+• Solo en el Servidor
+• Solo en el cliente
+• por lo general en el cliente, pero se puede ejecutar en el servidor.
+• En el router.
+
+La respuesta es = por lo general en el cliente, pero se puede ejecutar en el servidor.
+
+4) valor 5 jquery es :
+• un lenguaje de programación.
+• Un conjunto de tecnologías que permiten hacer código para el DOM.
+• Un ID de desarrollo.
+• una biblioteca multiplataforma de JavaScript.
+
+la respuesta es = una biblioteca multiplataforma de JavaScript.
+
+5) valor 5 Javascript nos permite modificar:
+• La estructura y contenido de una página web.
+• La presentación de una página web.
+• La estructura, contenido y presentación de una página web
+• Ninguna de las anteriores es correcta.
+
+la respuesta es = La estructura, contenido y presentación de una página web

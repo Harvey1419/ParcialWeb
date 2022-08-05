@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>formulario</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"  />
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+    <div class="page">
+      <h1><strong>web</strong>Developer</h1>
+        <div id="form1" class="form">
+          <h3>Formulario de afiliación</h3>
+          <form action="Fichatecnica.html" class="login-form">
+          <div class="input-group mb-3">
+            <input id = "nombre" class="form-control" name="nombre" type="text" placeholder="Nombre completo"/>
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="basic-addon1"><i class="fa fa-user icon"></i></span>
+            </div>
+          </div>
+          <div class="input-group mb-3">
+            <input id="email" class="form-control" name="email" type="text" placeholder="Email"/>
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="basic-addon1"><i class="fa fa-envelope icon"></i></span>
+            </div>
+          </div>
+          <div class="input-group mb-3">
+            <input id="telefono" class="form-control" name="telefono" type="number" placeholder="Telefono"/>
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="basic-addon1"><i class="fa fa-phone icon"></i></span>
+            </div>
+          </div>
+          <div class="input-group mb-3">
+            <div class="btn-group">
+              <input id = "gustos"  class="form-control" type="text"/>
+              <button id="gustosbutton" type="button" class="btn btn-default">Gustos</button>
+            </div>
+          </div>
+
+          <div id="form2" class="form">
+            		<div class="row">
+			    				<div id="flag1" class="col-xs-2 col-sm-2 col-md-2">
+			    					<div id="flag" class="form-group">
+			                <th><i id="bandera" class="fa fa-flag-o fa-3x" ></i></th>
+			    					</div>
+			    				</div>
+			    				<div id="table" class="col-xs-10 col-sm-10 col-md-10">
+			    					<div class="form-group">
+			    						<table id="tablagustos" class="table table-bordered table-hover">
+                        <tr>
+                            <th>Gusto</th>
+                            <th>%</th>
+                            <th>edit</th>
+                        </tr>
+                        </table>
+			    					</div>
+			    				</div>
+			    			</div>
+                <p id="texto"></p>
+                <div id="divBtn"></div>
+          </div>
+          </form>
+        </div>
+      </div>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"> </script>
+      <script src="parcial.js"></script>
+</body>
+</html>

@@ -1,0 +1,167 @@
+
+.page {
+  padding: 8% 0 0;
+  margin: auto;
+  text-align: center;
+}
+h3{
+  padding: 3%;
+}
+h1{
+  padding: 1%;
+}
+#form1 {
+  vertical-align: middle;
+  position: relative;
+  width: 500px;
+  z-index: 1;
+  background: #FFFFFF;
+  margin: 0 auto 30px;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+#form2 {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  margin: 0 auto 100px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2), 0 3px 3px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+  font-family: "monospace";
+  outline: 0;
+  width: 100%;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  border-right: 0 ;
+}
+.input-group-text{
+  background-color: white;
+  border: 1px solid #ced4da;
+  border-left: 0 ;
+
+}
+#bandera{
+  color: white;
+}
+div#flag1{
+  padding-right: 0;
+}
+#gustosbutton{
+
+  font-family: "monospace";
+  outline: 0;
+  color: #242424;
+  background: #dfdfdf;
+  border-color: #43A047;
+  width: 50%;
+  border: 2;
+  margin: 0 0 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+#gustosbutton:hover,.form button:active,.form button:focus {
+  background: #43A047;
+}
+#aceptar{
+
+  font-family: "monospace";
+  outline: 0;
+  color: #242424;
+  background: #95db74;
+
+  width: 50%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+#aceptar:hover,.form button:active,.form button:focus {
+  background: #35a13a;
+}
+#cancelar{
+
+  font-family: "monospace";
+  outline: 0;
+  color: #4b4b4b;
+  background: #df8686;
+  width: 50%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+#cancelar:hover,.form button:active,.form button:focus {
+  background: #ac2626;
+}
+.form .message {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 12px;
+}
+.form .message a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+#flag{
+  padding: 10px;
+  border-radius: 10%;
+  background-color: #43A047;
+  height: 100%;
+  width: 100%;
+}
+.btn-group{
+  width: 100%;
+}
+#table{
+  margin: auto auto auto;
+  width: 100%;
+}
+#ficha1{
+  background-color: #3650f7;
+}
+#emailficha{
+  background-color: #86a8df;
+  border-radius: 10px;
+}
+#numeroficha{
+  background-color: #61bdf3;
+  border-radius: 10px;
+}
+#gustoficha{
+  background-color: #52de88;
+  border-radius: 10px;
+}
+input#gusto  {
+  font-family: "monospace";
+  outline: 0;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #495057;
+  margin: 0;
+  padding: 0;
+}
+input#porcentaje  {
+  font-family: "monospace";
+  outline: 0;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #495057;
+  margin: 0;
+  padding: 0;
+}
+#porcentajeficha{
+  background-color: #c93737;
+  border-radius: 10px;
+}
+body {
+  background: #d7e0e8;
+  font-family: "monospace";  
+}
+
